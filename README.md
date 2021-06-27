@@ -1,6 +1,6 @@
 ### Hi there, I am [Muhammed](http://muhammedogz.github.io/) 👋
 
-- 👨‍🔬 I'm a CS student who is love to learning new things everyday.
+- 👨‍🔬 I'm a CS student who loves to learning new things everyday.
 - 🌱 I’m currently learning front-end development, I guess?
 
 <!--
