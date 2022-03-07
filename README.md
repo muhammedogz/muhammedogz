@@ -1,7 +1,8 @@
 ### Hi there, I am [Muhammed](http://muhammedogz.github.io/) 👋
 
+- 🔭 I’m currently working at EKOS.AI as a software developer.
 - 👨‍🔬 I'm a CS student who loves to learning new things everyday.
-- 🌱 I’m currently learning front-end development, I guess?
+- 🌱 I’m currently learning front-end development and backend development, I guess?
 
 <!--
 **muhammedogz/muhammedogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
