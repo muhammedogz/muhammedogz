@@ -1,7 +1,7 @@
 ### Hi there, I am Muhammed 👋
 
 - 🔭 I’m currently working at EKOS.AI as a software developer.
-- 🌱 I'm currently focused full-stack development.
+- 🌱 I'm currently focused on full-stack development.
 
 <!--
 **muhammedogz/muhammedogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
