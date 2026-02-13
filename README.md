@@ -1,11 +1,11 @@
-# Hi there, I am Muhammed 👋
+### Hi there, I am Muhammed 👋
 
-🔭 Building identity and authorization systems at Keymate.io
-🧩 Turning complex access control problems into things humans can actually reason about
-🌱 Focused on full-stack development, system design, and scalable architectures
-🧠 Obsessed with developer ergonomics, clean architecture, and performance
-🛠 I like building tools that make other developers slightly more dangerous (in a good way)
-🥊 When I’m not coding, I’m probably boxing, running, or optimizing something unnecessarily
+* 🔭 Building identity and authorization systems at **Keymate.io**
+* 🌱 Focused on full-stack development, system design, and scalable architectures
+* 🧠 Obsessed with developer ergonomics, clean architecture, and performance
+* 🛠 I like building tools that make other developers slightly more dangerous (in a good way)
+* 🥊 When I’m not coding, I’m probably boxing, running, or optimizing something unnecessarily
+
 
 <!--
 **muhammedogz/muhammedogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
